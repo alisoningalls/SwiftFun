@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         
             view.backgroundColor = UIColor.red
    
-            MyLabel.text = "You hit it more than 10 times!"
+            MyLabel.text = "You hit it more than 10 times!!"
             
         }
 
